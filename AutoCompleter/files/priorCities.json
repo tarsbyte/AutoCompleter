@@ -1,0 +1,623 @@
+[
+
+  {
+    "country": "PL",
+    "name": "Warszawa",
+    "lat": "52.22977",
+    "lng": "21.01178"
+  },
+
+  {
+    "country": "PL",
+    "name": "Kraków",
+    "lat": "50.06143",
+    "lng": "19.93658"
+  },
+
+  {
+    "country": "PL",
+    "name": "Łódź",
+    "lat": "51.77058",
+    "lng": "19.47395"
+  },
+
+  {
+    "country": "PL",
+    "name": "Wrocław",
+    "lat": "51.1",
+    "lng": "17.03333"
+  },
+
+  {
+    "country": "PL",
+    "name": "Poznań",
+    "lat": "52.40692",
+    "lng": "16.92993"
+  },
+
+  {
+    "country": "PL",
+    "name": "Białystok",
+    "lat": "53.13333",
+    "lng": "23.16433"
+  },
+
+  {
+    "country": "PL",
+    "name": "Rzeszów",
+    "lat": "50.04132",
+    "lng": "21.99901"
+  },
+
+  {
+    "country": "PL",
+    "name": "Katowice",
+    "lat": "50.25841",
+    "lng": "19.02754"
+  },
+
+  {
+    "country": "PL",
+    "name": "Gliwice",
+    "lat": "50.29761",
+    "lng": "18.67658"
+  },
+
+  {
+    "country": "PL",
+    "name": "Opole",
+    "lat": "50.67211",
+    "lng": "17.92533"
+  },
+
+  {
+    "country": "PL",
+    "name": "Tarnów",
+    "lat": "50.01381",
+    "lng": "20.98698"
+  },
+
+  {
+    "country": "PL",
+    "name": "Lublin",
+    "lat": "51.25",
+    "lng": "22.56667"
+  },
+
+  {
+    "country": "PL",
+    "name": "Gdańsk",
+    "lat": "54.35205",
+    "lng": "18.64637"
+  },
+
+  {
+    "country": "PL",
+    "name": "Gdynia",
+    "lat": "54.51889",
+    "lng": "18.53188"
+  },
+
+  {
+    "country": "PL",
+    "name": "Bydgoszcz",
+    "lat": "53.1235",
+    "lng": "18.00762"
+  },
+
+  {
+    "country": "PL",
+    "name": "Toruń",
+    "lat": "53.01375",
+    "lng": "18.59814"
+  },
+
+  {
+    "country": "PL",
+    "name": "Radom",
+    "lat": "51.40253",
+    "lng": "21.14714"
+  }
+
+,{
+  "country": "PL",
+  "name": "Kielce",
+  "lat": "50.87033",
+  "lng": "20.62752"
+},
+
+  {
+    "country": "PL",
+    "name": "Zakopane",
+    "lat": "49.29899",
+    "lng": "19.94885"
+  },
+
+  {
+    "country": "PL",
+    "name": "Olsztyn",
+    "lat": "50.75185",
+    "lng": "19.26737"
+  },
+
+  {
+  "country": "PL",
+  "name": "Siedlce",
+  "lat": "52.16772",
+  "lng": "22.29006"
+},
+
+  {
+    "country": "PL",
+    "name": "Częstochowa",
+    "lat": "50.79646",
+    "lng": "19.12409"
+  },
+
+  {
+    "country": "PL",
+    "name": "Sosnowiec",
+    "lat": "50.28682",
+    "lng": "19.10385"
+  },
+
+  {
+    "country": "PL",
+    "name": "Szczecin",
+    "lat": "53.42894",
+    "lng": "14.55302"
+  },
+
+  {
+    "country": "PL",
+    "name": "Nowy Sącz",
+    "lat": "49.62177",
+    "lng": "20.69705"
+  },
+
+  {
+    "country": "PL",
+    "name": "Nowy Targ",
+    "lat": "49.47783",
+    "lng": "20.03228"
+  },
+
+  {
+    "country": "PL",
+    "name": "Tarnobrzeg",
+    "lat": "50.57304",
+    "lng": "21.67937"
+  },
+
+  {
+    "country": "PL",
+    "name": "Bielsko-Biala",
+    "lat": "49.82245",
+    "lng": "19.04686"
+  },
+
+  {
+    "country": "PL",
+    "name": "Płock",
+    "lat": "52.54682",
+    "lng": "19.70638"
+  },
+
+  {
+    "country": "PL",
+    "name": "Kędzierzyn-Koźle",
+    "lat": "50.34984",
+    "lng": "18.22606"
+  },
+
+  {
+    "country": "PL",
+    "name": "Wałbrzych",
+    "lat": "50.77141",
+    "lng": "16.28432"
+  },
+
+  {
+    "country": "PL",
+    "name": "Karpacz",
+    "lat": "50.77669",
+    "lng": "15.75594"
+  },
+
+  {
+    "country": "PL",
+    "name": "Krościenko nad Dunajcem",
+    "lat": "49.44081",
+    "lng": "20.42624"
+  },
+
+  {
+    "country": "PL",
+    "name": "Gorlice",
+    "lat": "49.65563",
+    "lng": "21.16035"
+  },
+
+  {
+    "country": "PL",
+    "name": "Brzesko",
+    "lat": "49.96911",
+    "lng": "20.60606"
+  },
+
+  {
+    "country": "PL",
+    "name": "Zamość",
+    "lat": "50.72314",
+    "lng": "23.25196"
+  },
+
+  {
+    "country": "PL",
+    "name": "Zgierz",
+    "lat": "51.85561",
+    "lng": "19.40623"
+  },
+  {
+    "country": "PL",
+    "name": "Pabianice",
+    "lat": "51.66446",
+    "lng": "19.35473"
+  },
+
+  {
+    "country": "PL",
+    "name": "Kalisz",
+    "lat": "51.76109",
+    "lng": "18.09102"
+  },
+
+  {
+    "country": "PL",
+    "name": "Koszalin",
+    "lat": "54.19438",
+    "lng": "16.17222"
+  },
+
+  {
+    "country": "PL",
+    "name": "Kołobrzeg",
+    "lat": "54.17565",
+    "lng": "15.58342"
+  },
+
+  {
+    "country": "PL",
+    "name": "Piotrków Trybunalski",
+    "lat": "51.40547",
+    "lng": "19.70321"
+  },
+
+  {
+    "country": "PL",
+    "name": "Zielona Góra",
+    "lat": "51.93548",
+    "lng": "15.50643"
+  },
+  {
+    "country": "PL",
+    "name": "Gorzów Wielkopolski",
+    "lat": "52.73679",
+    "lng": "15.22878"
+  },
+
+  {
+    "country": "PL",
+    "name": "Piła",
+    "lat": "53.15145",
+    "lng": "16.73782"
+  },
+
+  {
+    "country": "PL",
+    "name": "Leszno",
+    "lat": "51.84034",
+    "lng": "16.57494"
+  },
+  {
+    "country": "PL",
+    "name": "Elbląg",
+    "lat": "54.1522",
+    "lng": "19.40884"
+  },
+
+  {
+    "country": "PL",
+    "name": "Malbork",
+    "lat": "54.03591",
+    "lng": "19.0266"
+  },
+
+  {
+    "country": "PL",
+    "name": "Grudziądz",
+    "lat": "53.48411",
+    "lng": "18.75366"
+  },
+
+  {
+    "country": "PL",
+    "name": "Suwałki",
+    "lat": "54.11175",
+    "lng": "22.93087"
+  },
+
+  {
+    "country": "PL",
+    "name": "Giżycko",
+    "lat": "54.03811",
+    "lng": "21.76441"
+  },
+
+  {
+    "country": "PL",
+    "name": "Ostrołęka",
+    "lat": "53.08621",
+    "lng": "21.57566"
+  },
+
+  {
+    "country": "PL",
+    "name": "Przemyśl",
+    "lat": "49.78498",
+    "lng": "22.76728"
+  },
+
+  {
+    "country": "PL",
+    "name": "Mielec",
+    "lat": "50.28709",
+    "lng": "21.4239"
+  },
+  {
+    "country": "PL",
+    "name": "Chełm",
+    "lat": "51.14312",
+    "lng": "23.4716"
+  },
+
+  {
+    "country": "PL",
+    "name": "Chełmno",
+    "lat": "53.34855",
+    "lng": "18.4251"
+  },
+
+  {
+    "country": "PL",
+    "name": "Stalowa Wola",
+    "lat": "50.58286",
+    "lng": "22.05334"
+  },
+
+  {
+    "country": "PL",
+    "name": "Rybnik",
+    "lat": "50.09713",
+    "lng": "18.54179"
+  },
+
+  {
+    "country": "PL",
+    "name": "Bytom",
+    "lat": "50.34802",
+    "lng": "18.93282"
+  },
+
+  {
+    "country": "PL",
+    "name": "Legnica",
+    "lat": "51.21006",
+    "lng": "16.1619"
+  },
+
+  {
+    "country": "PL",
+    "name": "Lubin",
+    "lat": "51.40089",
+    "lng": "16.20149"
+  },
+  {
+    "country": "PL",
+    "name": "Głogów",
+    "lat": "51.66361",
+    "lng": "16.0845"
+  },
+  {
+    "country": "PL",
+    "name": "Gniezno",
+    "lat": "52.53481",
+    "lng": "17.58259"
+  },
+  {
+    "country": "PL",
+    "name": "Inowrocław",
+    "lat": "52.79886",
+    "lng": "18.26387"
+  },
+  {
+    "country": "PL",
+    "name": "Konin",
+    "lat": "52.22338",
+    "lng": "18.25121"
+  },
+  {
+    "country": "PL",
+    "name": "Ostrowiec Świętokrzyski",
+    "lat": "50.92936",
+    "lng": "21.38525"
+  },
+  {
+    "country": "PL",
+    "name": "Biała Podlaska",
+    "lat": "52.03238",
+    "lng": "23.11652"
+  },
+  {
+    "country": "PL",
+    "name": "Skarżysko-Kamienna",
+    "lat": "51.11311",
+    "lng": "20.87162"
+  },
+
+  {
+    "country": "PL",
+    "name": "Puławy",
+    "lat": "51.41655",
+    "lng": "21.96939"
+  },
+
+  {
+    "country": "PL",
+    "name": "Pruszków",
+    "lat": "52.17072",
+    "lng": "20.81214"
+  },
+
+  {
+    "country": "PL",
+    "name": "Piaseczno",
+    "lat": "52.0814",
+    "lng": "21.02397"
+  },
+  {
+    "country": "PL",
+    "name": "Otwock",
+    "lat": "52.10577",
+    "lng": "21.26129"
+  },
+
+  {
+    "country": "PL",
+    "name": "Mińsk Mazowiecki",
+    "lat": "52.17935",
+    "lng": "21.57251"
+  },
+  {
+    "country": "PL",
+    "name": "Legionowo",
+    "lat": "52.40149",
+    "lng": "20.92664"
+  },
+
+  {
+    "country": "PL",
+    "name": "Wołomin",
+    "lat": "52.34006",
+    "lng": "21.24207"
+  },
+
+  {
+    "country": "PL",
+    "name": "Radzymin",
+    "lat": "52.41592",
+    "lng": "21.18415"
+  },
+
+  {
+    "country": "PL",
+    "name": "Żyrardów",
+    "lat": "52.0488",
+    "lng": "20.44599"
+  },
+
+  {
+    "country": "PL",
+    "name": "Sochaczew",
+    "lat": "52.22944",
+    "lng": "20.23838"
+  },
+  {
+    "country": "PL",
+    "name": "Kutno",
+    "lat": "52.23064",
+    "lng": "19.36409"
+  },
+
+  {
+    "country": "PL",
+    "name": "Rawa Mazowiecka",
+    "lat": "51.76437",
+    "lng": "20.25493"
+  },
+  {
+    "country": "PL",
+    "name": "Tomaszów Mazowiecki",
+    "lat": "51.53131",
+    "lng": "20.00855"
+  },
+
+  {
+    "country": "PL",
+    "name": "Starachowice",
+    "lat": "51.0374",
+    "lng": "21.07126"
+  },
+
+  {
+    "country": "PL",
+    "name": "Dębica",
+    "lat": "50.05146",
+    "lng": "21.41141"
+  },
+
+  {
+    "country": "PL",
+    "name": "Krosno",
+    "lat": "52.22357",
+    "lng": "16.83251"
+  },
+  {
+    "country": "PL",
+    "name": "Sanok",
+    "lat": "49.55573",
+    "lng": "22.2056"
+  },
+  {
+    "country": "PL",
+    "name": "Ostrów Wielkopolski",
+    "lat": "51.65501",
+    "lng": "17.80686"
+  },
+
+  {
+    "country": "PL",
+    "name": "Ciechanów",
+    "lat": "52.88141",
+    "lng": "20.61996"
+  },
+
+  {
+    "country": "PL",
+    "name": "Bełchatów",
+    "lat": "51.36883",
+    "lng": "19.35671"
+  },
+
+  {
+    "country": "PL",
+    "name": "Wieluń",
+    "lat": "51.22097",
+    "lng": "18.56964"
+  },
+
+  {
+    "country": "PL",
+    "name": "Sieradz",
+    "lat": "51.59584",
+    "lng": "18.73023"
+  },
+
+  {
+    "country": "PL",
+    "name": "Włocławek",
+    "lat": "52.64817",
+    "lng": "19.0678"
+  }
+
+]
